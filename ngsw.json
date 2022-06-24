@@ -1,0 +1,83 @@
+{
+  "configVersion": 1,
+  "timestamp": 1656051752381,
+  "index": "https://allaboutjobhere.github.io/cv/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://allaboutjobhere.github.io/cv/favicon.ico",
+        "https://allaboutjobhere.github.io/cv/index.html",
+        "https://allaboutjobhere.github.io/cv/main.0339ec8039d1db78.js",
+        "https://allaboutjobhere.github.io/cv/manifest.webmanifest",
+        "https://allaboutjobhere.github.io/cv/polyfills.05771c374335d42e.js",
+        "https://allaboutjobhere.github.io/cv/runtime.67ac9629723b967d.js",
+        "https://allaboutjobhere.github.io/cv/styles.576ea1c8b46be5a1.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://allaboutjobhere.github.io/cv/assets/gerb.png",
+        "https://allaboutjobhere.github.io/cv/assets/icons/icon-128x128.png",
+        "https://allaboutjobhere.github.io/cv/assets/icons/icon-144x144.png",
+        "https://allaboutjobhere.github.io/cv/assets/icons/icon-152x152.png",
+        "https://allaboutjobhere.github.io/cv/assets/icons/icon-192x192.png",
+        "https://allaboutjobhere.github.io/cv/assets/icons/icon-384x384.png",
+        "https://allaboutjobhere.github.io/cv/assets/icons/icon-512x512.png",
+        "https://allaboutjobhere.github.io/cv/assets/icons/icon-72x72.png",
+        "https://allaboutjobhere.github.io/cv/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://allaboutjobhere.github.io/cv/assets/gerb.png": "368ff6ec73c34b189038833ebe83a42385d9392b",
+    "https://allaboutjobhere.github.io/cv/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://allaboutjobhere.github.io/cv/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://allaboutjobhere.github.io/cv/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://allaboutjobhere.github.io/cv/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://allaboutjobhere.github.io/cv/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://allaboutjobhere.github.io/cv/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://allaboutjobhere.github.io/cv/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://allaboutjobhere.github.io/cv/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://allaboutjobhere.github.io/cv/favicon.ico": "e70cd40c24267336b232e7eb50a7c0f5874c777a",
+    "https://allaboutjobhere.github.io/cv/index.html": "d2ec6e89f9ebd9d0ea9c9888b6d1f40cac89f2ba",
+    "https://allaboutjobhere.github.io/cv/main.0339ec8039d1db78.js": "344e009aac225b0dab084a21ca76d78078e67860",
+    "https://allaboutjobhere.github.io/cv/manifest.webmanifest": "03c9eb580208c6c46e853e41f350b57cfb548a3a",
+    "https://allaboutjobhere.github.io/cv/polyfills.05771c374335d42e.js": "a2cb3123e92be4fc81fac40e1087428de4982869",
+    "https://allaboutjobhere.github.io/cv/runtime.67ac9629723b967d.js": "1b073c21e91cc3fcea12b91ee4adc81b237bbc78",
+    "https://allaboutjobhere.github.io/cv/styles.576ea1c8b46be5a1.css": "f215530013036d48da6de36d29890831ff144770"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
